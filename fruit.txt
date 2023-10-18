@@ -8,3 +8,4 @@ Watermelon
 Kiwi
 Mango
 Blueberry
+Cherry
